@@ -43,12 +43,6 @@ The analysis and dashboard cover relevant metrics such as:
 - Churn score, where available
 - Churn patterns by contract type and customer segment
 
-## Dashboard Preview
-
-Add your Power BI dashboard screenshot here.
-
-![Customer Churn Dashboard](images/customer_churn_dashboard.png)
-
 ## Key Findings
 
 Document the actual findings from your analysis here.
